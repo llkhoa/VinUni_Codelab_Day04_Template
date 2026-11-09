@@ -9,13 +9,9 @@
    pip install -r requirements.txt
    ```
 
-2. **Hoàn thiện bài lab:**
-   - Mở `tools.py` → Hoàn thiện 2 hàm tool + JSON Schemas.
-   - Mở `template.py` → Hoàn thiện 4 TODO:
-     - TODO 1: System Prompt
-     - TODO 2: ChatbotBaseline
-     - TODO 3: Intent Detection
-     - TODO 4: Agent Loop
+2. **Chạy bài lab:**
+   - `tools.py` cung cấp tra cứu catalog, tạo support ticket và JSON Schemas.
+   - `template.py` cung cấp System Prompt, baseline mock và ToolCallingAgent loop.
 
 3. **Chạy thử:**
    ```bash
